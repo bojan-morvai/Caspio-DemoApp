@@ -1,0 +1,23 @@
+{
+  "name": "caspio",
+  "version": "1.0.0",
+  "description": "Caspio Demo App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bojan-morvai/Caspio-DemoApp.git"
+  },
+  "author": "Bojan Morvai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bojan-morvai/Caspio-DemoApp/issues"
+  },
+  "homepage": "https://github.com/bojan-morvai/Caspio-DemoApp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
